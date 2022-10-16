@@ -6,15 +6,21 @@
 ![dan](https://user-images.githubusercontent.com/66309753/196048570-95661ed5-443a-45b6-b564-75eba17896ee.jpg)
 
 I am a Computer science Graduate of HILL-CITY UNIVERSITY BENIN(HCUB), A UI/UX Developer, Graphic Designer, Freelancer, A frontend Web Developer and training to be a Software Engineer @ Alxafrica 
-
-
-
--🌍  I'm based in Lagos, Nigeria 
-<p>-🌱 I’m currently learning to be a certified Software Engineer <br/>
+<p>-🌍  I'm based in Lagos, Nigeria 
+-🌱 I’m currently learning to be a certified Software Engineer <br/>
 -👯 I’m looking to collaborate on projects relating to Programming 💬 Feel free to ask me about Frontend development, Linux OS and Programming languages <br/>
 -📫feel free to reach me at: erhisowomedanielking@gmail.com<br/>
 - ⚡ Fun fact: I am an avid fantasy reader.</p>
 
-**Skills**
-
+### :hammer_and_wrench:Skills:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 -->
