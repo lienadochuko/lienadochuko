@@ -9,5 +9,7 @@ I am a Computer science Graduate of HILL-CITY UNIVERSITY BENIN(HCUB), A UI/UX De
 - ⚡ Fun fact: I am an avid fantasy reader.
 
 **Skills**
+https://docs.microsoft.com/en-us/cpp/?view=msvc-170
+https://docs.microsoft.com/en-us/cpp/?view=msvc-170
 Javascript
 -->
