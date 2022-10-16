@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I am **Daniel Erhisohwode**
+![dan](https://user-images.githubusercontent.com/66309753/196048570-95661ed5-443a-45b6-b564-75eba17896ee.jpg)
 
-<!--
-**lienadochuko/lienadochuko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer science Graduate of HILL-CITY UNIVERSITY BENIN(HCUB), A UI/UX Developer, Graphic Designer, Freelancer, A frontend Web Developer and training to be a Software Engineer @ Alxafrica 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
