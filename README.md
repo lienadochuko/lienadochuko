@@ -10,10 +10,10 @@ I am a Computer science Graduate of HILL-CITY UNIVERSITY BENIN(HCUB), A UI/UX De
 
 
 -🌍  I'm based in Lagos, Nigeria 
-##-🌱 I’m currently learning to be a certified Software Engineer 
-##-👯 I’m looking to collaborate on projects relating to Programming 💬 Feel free to ask me about Frontend development, Linux OS and Programming languages 
-##-📫feel free to reach me at: erhisowomedanielking@gmail.com
-##- ⚡ Fun fact: I am an avid fantasy reader.
+<p>-🌱 I’m currently learning to be a certified Software Engineer </p>
+<p>-👯 I’m looking to collaborate on projects relating to Programming 💬 Feel free to ask me about Frontend development, Linux OS and Programming languages </p>
+<p>-📫feel free to reach me at: erhisowomedanielking@gmail.com</p>
+<p>- ⚡ Fun fact: I am an avid fantasy reader.</p>
 
 **Skills**
 
