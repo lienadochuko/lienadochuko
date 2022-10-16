@@ -50,6 +50,10 @@ I am a Computer science Graduate of HILL-CITY UNIVERSITY BENIN(HCUB), a UI/UX De
 ### :fire: My Stats
 <a href="http://www.github.com/lienadochuko"><img src="https://github-readme-stats.vercel.app/api?username=lienadochuko&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Daniel's GitHub stats" /></a>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lienadochuko&theme=dark&background=181818)](https://git.io/streak-stats)
+<a href="http://www.github.com/lienadochuko"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lienadochuko&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+
+Support:
+Alagwudavid
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lienadochuko&layout=compact&theme=vision-friendly-dark&background=181818)](https://github.com/anuraghazra/github-readme-stats)
