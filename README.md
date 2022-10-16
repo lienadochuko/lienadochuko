@@ -4,7 +4,7 @@
 ### Hi there 👋, I am **Daniel Erhisohwode**:man_technologist:
 </div>
 
-I am a Computer science Graduate of HILL-CITY UNIVERSITY BENIN(HCUB), A UI/UX Developer, Graphic Designer, Freelancer, A frontend Web Developer and training to be a Software Engineer @ Alxafrica 
+I am a Computer science Graduate of HILL-CITY UNIVERSITY BENIN(HCUB), a UI/UX Developer, Graphic Designer, Freelancer, A frontend Web Developer and training to be a Software Engineer @ Alxafrica 
 <p>-🌍  I'm based in Lagos, Nigeria 
 -🌱 I’m currently learning to be a certified Software Engineer <br/>
 -👯 I’m looking to collaborate on projects relating to Programming 💬 Feel free to ask me about Frontend development, Linux OS and Programming languages <br/>
@@ -22,6 +22,7 @@ I am a Computer science Graduate of HILL-CITY UNIVERSITY BENIN(HCUB), A UI/UX De
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   </div>
   
 ### :hammer_and_wrench:Tools:
@@ -30,6 +31,13 @@ I am a Computer science Graduate of HILL-CITY UNIVERSITY BENIN(HCUB), A UI/UX De
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" title="Git" **alt="Git" width="40" height="40"/>
-  
 </div>
--->
+
+### :hammer_and_wrench: Social:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Git" **alt="Git" width="40" height="40">
+  <a href="https://github.com/lienadochuko"></a>
+  </img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
