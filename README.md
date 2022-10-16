@@ -38,7 +38,7 @@ I am a Computer science Graduate of HILL-CITY UNIVERSITY BENIN(HCUB), a UI/UX De
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   </a>
   <a href="https://github.com/lienadochuko">
-  <img src="https://icons8.com/icon/ZRiAFreol5mE/instagram" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="![image](https://user-images.githubusercontent.com/66309753/196053972-fabc6b27-c8d5-4fb5-b7b3-c6a7fc4a3a12.png)" title="Git" **alt="Git" width="40" height="40"/>
   </a>
 </div>
 
