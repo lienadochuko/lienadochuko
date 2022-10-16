@@ -12,7 +12,6 @@ I am a Computer science Graduate of HILL-CITY UNIVERSITY BENIN(HCUB), a UI/UX De
 -📫feel free to reach me at: erhisowomedanielking@gmail.com<br/>
 - ⚡ Fun fact: I am an avid fantasy reader.
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lienadochuko&background=1c1917&ring=0891b2bg_color=1c1917&hide_border=true" alt="lienadochuko" /></a> </p>
 
 ### :hammer_and_wrench:Skills
 <div>
