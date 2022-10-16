@@ -55,6 +55,6 @@ I am a Computer science Graduate of HILL-CITY UNIVERSITY BENIN(HCUB), a UI/UX De
 <a href="http://www.github.com/lienadochuko"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lienadochuko&layout=compact&background=1c1917&hide_border=true" /></a>
 
 Support:
-Alagwudavid
+Daniel Ochuko
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lienadochuko&layout=compact&theme=vision-friendly-dark&background=181818)](https://github.com/anuraghazra/github-readme-stats)
