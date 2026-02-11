@@ -4,7 +4,7 @@
 ### Hi there 👋, I am **Daniel Erhisohwode**:man_technologist:
 </div>
 
-I am a Computer science Graduate of HILL-CITY UNIVERSITY BENIN(HCUB), a UI/UX Developer, Graphic Designer, Freelancer, and software Developer with a dynamic and robust method of achieving specified tasks.
+I am a UI/UX Developer, Graphic Designer, Freelancer, and software Developer with a dynamic and robust method of achieving specified tasks.
 <p>
 -🌍  I'm based in Lagos, Nigeria <br/>
 -🌱 I’m currently learning to be a certified Software Engineer <br/>
